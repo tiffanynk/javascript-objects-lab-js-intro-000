@@ -3,5 +3,5 @@ var object = {
 }
 
 function updateObjectWithKeyAndValue(object, key, value) {
-  
+
 }
