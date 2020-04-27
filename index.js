@@ -9,3 +9,8 @@ function destructivelyUpdateObjectWithKeyAndValue(object, key, value) {
 
   return object
 }
+
+// Write a function that uses non-destructive methods to delete key from a clone of object and returns a new object
+function deleteFromObjectByKey(object, key) {
+  return delete object[key];
+}
