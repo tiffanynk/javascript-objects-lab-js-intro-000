@@ -1,1 +1,7 @@
-let object = new Object()
+var object = {
+  key: value;
+}
+
+function updateObjectWithKeyAndValue(object, key, value) {
+  
+}
